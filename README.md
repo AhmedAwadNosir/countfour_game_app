@@ -30,41 +30,17 @@ Count Four Game is a classic connect-four style game where two players take turn
 ## 📸 App Screens
 
 <p align="center">
-  <img src="https://github.com/AhmedAwadNosir/Count_Four_Game/blob/f267b828940d8d54146f10fb55794055418d6839/lib/core/utils/assets/images/background1.jpg" width="150"/>
- <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/2onboarding1.jpg" width="150"/>
-  <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/3onboarding2.jpg" width="150"/>
- <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/4onboarding3.jpg" width="150"/>
-  <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/5onboarding4.jpg" width="150"/>
- <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/6loginScreen.jpg" width="150"/>
-  <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/7signUpScreen.jpg" width="150"/>
- <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/8forgotPasswordScreen.jpg" width="150"/>
-  <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/9booksScreen.jpg" width="150"/>
-    <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/10booksFiltring.jpg" width="150"/>
-  <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/11newsScreen.jpg" width="150"/>
-  <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/13messagesScreen.jpg" width="150"/>
-
-  <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/15messageScreenNewChat.jpeg.jpeg" width="150"/>
-  <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/16AddFriendsScreen.jpg" width="150"/>
-  <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/17AddFriendsScreen2.jpg.jpeg" width="150"/>
-  <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/18friendRequstScreen.jpg" width="150"/>
-  <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/19friendRequstScreen2.jpg.jpeg" width="150"/>
-  <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/20notesScreen.jpg" width="150"/>
-  <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/21addNoteForm.jpg" width="150"/>
-  <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/23notesScreen2Dellet.jpeg.jpeg" width="150"/>
-  <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/26editNoteConfirmationDialog.jpeg" width="150"/>
-  <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/27settingScreen.jpg" width="150"/>
-  <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/28contactUsScreen.jpg" width="150"/>
-  <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/29AboutUsScreen.jpg" width="150"/>
+  <img src="https://github.com/AhmedAwadNosir/countfour_game_app/blob/b0e271b7471c85870daf90af2a1a089bc46bdfeb/lib/core/utils/assets/images/screens/1.jpeg" width="150"/>
 </p>
 
 ## 📥 Download APK
 
-[![Download APK](https://img.shields.io/badge/Download-APK‑Here‑00BCD4?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AhmedAwadNosir/multiServicesApp/releases/download/v1.1.0/app-release.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK‑Here‑00BCD4?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AhmedAwadNosir/countfour_game_app/releases/download/v1.0.0/app-release.apk)
 
 ---
 ## 🎥 App Demo
 <p align="left">
-  <a href="https://github.com/AhmedAwadNosir/multiServicesApp/releases/download/v1.0.0/demo.mp4">
+  <a href="https://private-user-images.githubusercontent.com/130182819/572941525-e2e6e220-948b-4f2b-8ac6-ff183d58f2b3.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzUxMTY2NjUsIm5iZiI6MTc3NTExNjM2NSwicGF0aCI6Ii8xMzAxODI4MTkvNTcyOTQxNTI1LWUyZTZlMjIwLTk0OGItNGYyYi04YWM2LWZmMTgzZDU4ZjJiMy5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQwMlQwNzUyNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNjJmZTIyN2NiMDE5ZTgzYjMzMmI4Y2E1OTc4OTMwMjNlZDZkYmIyZDY5ZTg0ODQyYTdlMWQwNjlmNGM5NWVlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-tkxsiJfcnGa8B7JDQ6t6EfOqdmBU4xt9w7-mn9FsOE">
     <img src="https://github.com/AhmedAwadNosir/multiservicesAppAssets/blob/63f2220a655d1f8511aed0d0133a379adea07d45/images/lightmode/1splashScreen.jpg" width="80",hieght="80"/>
   </a>
 </p>
