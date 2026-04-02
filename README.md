@@ -30,14 +30,14 @@ Count Four Game is a classic connect-four style game where two players take turn
 ## 📸 App Screens
 
 <p align="center">
-  <img src="https://github.com/AhmedAwadNosir/countfour_game_app/blob/b0e271b7471c85870daf90af2a1a089bc46bdfeb/lib/core/utils/assets/images/screens/1.jpeg" width="250"/>
-  <img src="https://github.com/AhmedAwadNosir/countfour_game_app/blob/b0e271b7471c85870daf90af2a1a089bc46bdfeb/lib/core/utils/assets/images/screens/2.jpeg" width="250"/>
-  <img src="https://github.com/AhmedAwadNosir/countfour_game_app/blob/b0e271b7471c85870daf90af2a1a089bc46bdfeb/lib/core/utils/assets/images/screens/3.jpeg" width="250"/>
-  <img src="https://github.com/AhmedAwadNosir/countfour_game_app/blob/b0e271b7471c85870daf90af2a1a089bc46bdfeb/lib/core/utils/assets/images/screens/4.jpeg" width="250"/>
-  <img src="https://github.com/AhmedAwadNosir/countfour_game_app/blob/b0e271b7471c85870daf90af2a1a089bc46bdfeb/lib/core/utils/assets/images/screens/5.jpeg" width="250"/>
-  <img src="https://github.com/AhmedAwadNosir/countfour_game_app/blob/b0e271b7471c85870daf90af2a1a089bc46bdfeb/lib/core/utils/assets/images/screens/6.jpeg" width="250"/>
-  <img src="https://github.com/AhmedAwadNosir/countfour_game_app/blob/b0e271b7471c85870daf90af2a1a089bc46bdfeb/lib/core/utils/assets/images/screens/7.jpeg" width="250"/>
-  <img src="https://github.com/AhmedAwadNosir/countfour_game_app/blob/b0e271b7471c85870daf90af2a1a089bc46bdfeb/lib/core/utils/assets/images/screens/8.jpeg" width="250"/>
+  <img src="https://github.com/AhmedAwadNosir/countfour_game_app/blob/b0e271b7471c85870daf90af2a1a089bc46bdfeb/lib/core/utils/assets/images/screens/1.jpeg" width="200"/>
+  <img src="https://github.com/AhmedAwadNosir/countfour_game_app/blob/b0e271b7471c85870daf90af2a1a089bc46bdfeb/lib/core/utils/assets/images/screens/2.jpeg" width="200"/>
+  <img src="https://github.com/AhmedAwadNosir/countfour_game_app/blob/b0e271b7471c85870daf90af2a1a089bc46bdfeb/lib/core/utils/assets/images/screens/3.jpeg" width="200"/>
+  <img src="https://github.com/AhmedAwadNosir/countfour_game_app/blob/b0e271b7471c85870daf90af2a1a089bc46bdfeb/lib/core/utils/assets/images/screens/4.jpeg" width="200"/>
+  <img src="https://github.com/AhmedAwadNosir/countfour_game_app/blob/b0e271b7471c85870daf90af2a1a089bc46bdfeb/lib/core/utils/assets/images/screens/5.jpeg" width="200"/>
+  <img src="https://github.com/AhmedAwadNosir/countfour_game_app/blob/b0e271b7471c85870daf90af2a1a089bc46bdfeb/lib/core/utils/assets/images/screens/6.jpeg" width="200"/>
+  <img src="https://github.com/AhmedAwadNosir/countfour_game_app/blob/b0e271b7471c85870daf90af2a1a089bc46bdfeb/lib/core/utils/assets/images/screens/7.jpeg" width="200"/>
+  <img src="https://github.com/AhmedAwadNosir/countfour_game_app/blob/b0e271b7471c85870daf90af2a1a089bc46bdfeb/lib/core/utils/assets/images/screens/8.jpeg" width="200"/>
 </p>
 
 ## 📥 Download APK
